@@ -10,4 +10,3 @@ convertido em endereço de memória.
 p=++mat;  mesmo de cima
 x=(*mat)++ ; está correto pois x = o valor de mat[0] e
 somando +1 e para esse valor;
-*/
